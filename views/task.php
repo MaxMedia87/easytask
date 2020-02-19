@@ -15,8 +15,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/views/header.php'
     <div class="form-group col-md-4">
       <select id="sortBy" class="form-control" name="sortby">
         <option hidden>Направление сортировки:</option>
-        <option value="asc">Убыванию</option>
-        <option value="desc">Возрастанию</option>
+        <option value="desc">Убыванию</option>
+        <option value="asc">Возрастанию</option>
       </select>
     </div>  
 </div>
